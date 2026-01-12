@@ -4,3 +4,6 @@ git config --global user.email "email"
 git config --global user.name "userName"
 
 git commit -m "initial commit"
+
+git remote add origin http://github.com/kshitijaykarkade/myCentralRepo.git
+git push -u origin main
